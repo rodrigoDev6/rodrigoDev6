@@ -1,6 +1,6 @@
 ## Olá! eu sou rodrigo Dev6
 
-- 🔭 Atualmente estou cursando Técnico de Informática, mas gosto de estudar por fora e aprender mais em outras plataformas online.
+- :man_student: Atualmente estou cursando Técnico de Informática, mas gosto de estudar por fora e aprender mais em outras plataformas online.
 - 🌱 Estudante de Html,Css,Bootstrap,Javascript, Php, MySql.
 
 <div>
