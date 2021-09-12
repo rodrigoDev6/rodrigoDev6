@@ -1,7 +1,7 @@
 ## Olá! eu sou rodrigo Dev6
 
-- 🔭 Hoje eu trabalho como desenvolvedor front-end freelancer.
-- 🌱 Estudando Php, MySql
+- 🔭 Atualmente estou cursando Técnico de Informática, mas gosto de estudar por fora e aprender mais em outras plataformas online.
+- 🌱 Estudante de Html,Css,Bootstrap,Javascript, Php, MySql.
 
 <div>
   <a href="https://github.com/rodrigoDev6">
