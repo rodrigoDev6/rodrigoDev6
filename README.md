@@ -3,13 +3,20 @@
 - :man_student: Atualmente estou cursando Técnico de Informática com foco em desenvolvimento de sistemas, mas gosto de estudar por fora e aprender mais em outras plataformas online.
 - 🌱 Estudante de Html, Css, Bootstrap, Javascript, Php, MySql.
 
+
+## GitHub Analytics
 <div>
   <a href="https://github.com/rodrigoDev6">
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=rodrigoDev6&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoDev6&layout=compact&langs_count=7&theme=cobalt"/>
+  <p align="center">
+    <img height="170em"  src="https://github-readme-stats.vercel.app/api?username=rodrigoDev6&show_icons=true&theme=blue&include_all_commits=true&count_private=true" >
+  </p>
+    
+  <p align="center">
+  <img height="170em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoDev6&layout=compact&langs_count=7&theme=blue"/>
+  </p>
 </div>
 
-##
+## Skills
   
 <div style="display: inline_block"><br>
       
@@ -26,7 +33,7 @@
   
 </div>
   
-##
+## Contacts
   
 <div> 
   <a href="https://www.linkedin.com/in/rodrigo-lima1" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
