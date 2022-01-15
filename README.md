@@ -1,5 +1,5 @@
-## Olá! eu sou rodrigoDev6
-- 👨‍💻 Hello I'm rodrigo and I'm a Brazilian programmer.
+## Olá! eu sou Rodrigo Lima
+- 🇧🇷 I'm a Brazilian programmer.
 
 - Atualmente estou cursando Técnico em Informática e iniciando minha faculdade de Engenharia de Software. 
 
