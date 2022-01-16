@@ -4,7 +4,6 @@
 - Atualmente estou cursando Técnico em Informática e iniciando minha faculdade de Engenharia de Software. 
 
 ### Stacks : 
-
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -18,17 +17,17 @@
   <img align="center" alt="Rodrigo-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
 </div>
 
-
+<!--
 ### GitHub Analytics :
 
   <a href="https://github.com/rodrigoDev6">
   <p align="center">
-    <!--MY GITHUB STATISTICS -->
+    MY GITHUB STATISTICS
     <img height="190em"  src="https://github-readme-stats.vercel.app/api?username=rodrigoDev6&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" >
-    <!--THE PROGRAMMING LANGUAGES I USE THE MOST-->
+    THE PROGRAMMING LANGUAGES I USE THE MOST
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoDev6&layout=compact&langs_count=7&theme=algolia"/>
   </p>
-
+-->
   
 ## Contacos :
   
