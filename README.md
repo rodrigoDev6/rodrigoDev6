@@ -4,8 +4,8 @@
 - Atualmente estou cursando um Técnico em Informática e iniciando minha Graduação de Engenharia de Software. 
 
 ### Stacks : 
-<div style="display: inline_block"><br>
-  
+<div style="display: inline_block">
+  <br>
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Rodrigo-CSS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
@@ -15,6 +15,18 @@
   <img align="center" alt="Radrigo-react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
   
   <img align="center" alt="Rodrigo-nodejs" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
+  
+  <img align="center" alt="Rodrigo-git" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+  
+  <img align="center" alt="Rodrigo-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
+
+  <img align="center" alt="Rodrigo-mySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg">
+  
+  <img align="center" alt="Rodrigo-linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  
+  <img align="center" alt="Rodrigo-npm" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg">
+  
+  <img align="center" alt="Rodrigo-vsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
 
 
