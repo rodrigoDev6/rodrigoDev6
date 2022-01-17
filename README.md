@@ -1,7 +1,7 @@
 ## Olá! eu sou Rodrigo Lima
 - 🇧🇷 I'm a Brazilian programmer.
 
-- Atualmente estou cursando Técnico em Informática e iniciando minha faculdade de Engenharia de Software. 
+- Atualmente estou cursando um Técnico em Informática e iniciando minha Graduação de Engenharia de Software. 
 
 ### Stacks : 
 <div style="display: inline_block"><br>
