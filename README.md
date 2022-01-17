@@ -1,7 +1,11 @@
 ## Olá! eu sou Rodrigo Lima
-- 🇧🇷 I'm a Brazilian programmer.
+<div>
+  <img align="right" alt="Rodrigo-vsCode" height="110" width="220" src="https://github.com/rodrigoDev6/rodrigoDev6/blob/main/images/tanjiro-kamado.gif">
+</div>
 
+- 🇧🇷 I'm a Brazilian programmer.
 - Atualmente estou cursando um Técnico em Informática e iniciando minha Graduação de Engenharia de Software. 
+
 
 ### Stacks : 
 <div style="display: inline_block">
