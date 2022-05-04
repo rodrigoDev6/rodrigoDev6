@@ -1,8 +1,4 @@
 ## Olá! eu sou Rodrigo Lima
-<div>
-  <img align="right" alt="Rodrigo-vsCode" height="100" width="180" src="https://github.com/rodrigoDev6/rodrigoDev6/blob/main/images/tanjiro-kamado.gif">
-  <span>Atualmente estou cursando um Técnico em Informática e iniciando minha Graduação de Analise de Sistemas.</span>
-</div>
 
 ### Stacks : 
 <div style="display: inline_block">
