@@ -1,6 +1,7 @@
 ## Olá! eu sou Rodrigo Lima
 
 ### Stacks : 
+<!--
 <div style="display: inline_block">
   <br>
   <img align="center" alt="Rodrigo-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
@@ -25,7 +26,7 @@
   
   <img align="center" alt="Rodrigo-vsCode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
 </div>
-
+-->
 
 ### GitHub Stats :
   <a href="https://github.com/rodrigoDev6">
